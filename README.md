@@ -55,16 +55,18 @@ Feel free to check out my projects and connect!
 
 ---
 
-### 📈 Yearly Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RushikX&theme=tokyo-night" alt="Yearly Contribution Graph" />
-</p>
-
 ### 📊 Contributions by Year
 
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=RushikX&theme=tokyo-night" alt="Contributions by Year" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RushikX&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <!-- More sections: Projects, Blog, Connect etc as needed -->
