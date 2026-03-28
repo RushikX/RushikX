@@ -63,10 +63,6 @@ Feel free to check out my projects and connect!
 
 ---
 
-### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushikX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
 
 <!-- More sections: Projects, Blog, Connect etc as needed -->
