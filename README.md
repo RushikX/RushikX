@@ -22,9 +22,39 @@
 
 ---
 
+### 🧩 My Projects
+
+- **TripMate** — MERN platform for carpooling, car rentals, and bike pooling.  
+  [Live Demo](https://tripmate-1-e2ea.vercel.app) • [Repo](https://github.com/RushikX/Tripmate-1)
+
+- **Nivasa** — apartment administration system with tenant/admin dashboards and maintenance workflows.  
+  [Live Demo](https://nivasa-vert.vercel.app) • [Repo](https://github.com/RushikX/Nivasa)
+
+- **Clara Pipeline** — n8n workflows that convert call transcripts into artifacts for a Clara voice agent.  
+  [Loom Demo](https://www.loom.com/share/e7f560dbb55d4a4ca9be677f331f7c0e) • [Repo](https://github.com/RushikX/clara-pipeline)
+
+- **Email Productivity Agent** — AI email assistant with categorization, action items, and draft replies using Gemini + Supabase.  
+  [Repo](https://github.com/RushikX/Email-Agent)
+
+- **Predictive VM Scheduling** — ML-based scheduler for edge-cloud environments with runtime prediction and online learning.  
+  [Repo](https://github.com/RushikX/Predictive-VM-Scheduling)
+
+- **AWS Sentiment Analysis** — Streamlit app that scrapes Amazon reviews and analyzes sentiment with AWS Comprehend + Gemini.  
+  [Repo](https://github.com/RushikX/AWS_Sentiment_Analysis)
+
+---
+
 ### 🚀 About Me
 
 I'm passionate about building, automating, and exploring new technologies.  
 Feel free to check out my projects and connect!
+
+---
+
+### 📈 Yearly Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RushikX&theme=tokyo-night" alt="Yearly Contribution Graph" />
+</p>
 
 <!-- More sections: Projects, Blog, Connect etc as needed -->
