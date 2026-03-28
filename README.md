@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=39B3F5&center=true&vCenter=true&width=580&lines=Hi+%F0%9F%91%8B%2C+I'm+RushikX!;Welcome+to+my+GitHub+Profile." alt="Welcome Note" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RushikX&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <!-- Stats Visuals -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikX&layout=compact&langs_count=7&theme=tokyonight&hide_title=true" alt="Top Languages" />
@@ -55,6 +59,12 @@ Feel free to check out my projects and connect!
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RushikX&theme=tokyo-night" alt="Yearly Contribution Graph" />
+</p>
+
+### 📊 Contributions by Year
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=RushikX&theme=tokyo-night" alt="Contributions by Year" />
 </p>
 
 <!-- More sections: Projects, Blog, Connect etc as needed -->
