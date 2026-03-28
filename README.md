@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=39B3F5&center=true&vCenter=true&width=580&lines=Hi+%F0%9F%91%8B%2C+I'm+RushikX!;Welcome+to+my+GitHub+Profile." alt="Welcome Note" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=39B3F5&center=true&vCenter=true&width=580&lines=Hi+%F0%9F%91%8B%2C+I'm+Rushik!;Welcome+to+my+GitHub+Profile." alt="Welcome Note" />
 </p>
 
 <p align="center">
